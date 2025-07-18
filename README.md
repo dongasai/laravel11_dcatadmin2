@@ -4,6 +4,8 @@
 
 > 这是Laeavel11 和 dcatadmin2 laravel11分支的实例，安装成功，直接可用
 
+issuse to [dongasai/dcat-admin2](https://github.com/dongasai/dcat-admin2)
+
 composer create-project --prefer-dist laravel/laravel laravel11-app "11.*"
 
 
