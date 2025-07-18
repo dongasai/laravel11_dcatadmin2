@@ -548,9 +548,9 @@
             "install-path": "../doctrine/lexer"
         },
         {
-            "name": "dongasai/laravel-admin2",
-            "version": "dev-laravel11",
-            "version_normalized": "dev-laravel11",
+            "name": "dongasai/dcat-admin2",
+            "version": "11.0.1",
+            "version_normalized": "11.0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dongasai/dcat-admin2.git",
@@ -618,9 +618,10 @@
                 "laravel admin"
             ],
             "support": {
-                "source": "https://github.com/dongasai/dcat-admin2/tree/laravel11"
+                "issues": "https://github.com/dongasai/dcat-admin2/issues",
+                "source": "https://github.com/dongasai/dcat-admin2/tree/11.0.1"
             },
-            "install-path": "../dongasai/laravel-admin2"
+            "install-path": "../dongasai/dcat-admin2"
         },
         {
             "name": "dragonmantank/cron-expression",

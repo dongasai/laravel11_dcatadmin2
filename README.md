@@ -6,7 +6,8 @@
 
 composer create-project --prefer-dist laravel/laravel laravel11-app "11.*"
 
-composer require dongasai/laravel-admin2:dev-laravel11
+
+composer require dongasai/dcat-admin2
 
 php artisan admin:publish
 php artisan admin:install
@@ -20,3 +21,4 @@ git remote add origin git@github.com:dongasai/laravel11_dcatadmin2.git
 git push -u origin main
 
 docker exec -it laravel11dcat2 bash
+composer require dongasai/dcat-admin2

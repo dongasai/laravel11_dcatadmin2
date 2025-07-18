@@ -85,12 +85,12 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'dongasai/laravel-admin2' => array(
-            'pretty_version' => 'dev-laravel11',
-            'version' => 'dev-laravel11',
+        'dongasai/dcat-admin2' => array(
+            'pretty_version' => '11.0.1',
+            'version' => '11.0.1.0',
             'reference' => '6dd2f345a11ddb5567132e22d89e12da2822bf24',
             'type' => 'library',
-            'install_path' => __DIR__ . '/../dongasai/laravel-admin2',
+            'install_path' => __DIR__ . '/../dongasai/dcat-admin2',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
